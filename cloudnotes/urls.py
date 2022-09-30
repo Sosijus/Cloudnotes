@@ -22,3 +22,4 @@ urlpatterns = [
     path('reg/',reg),
     path('note/',note)
 ]
+# Привет, мир!
